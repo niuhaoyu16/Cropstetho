@@ -1,12 +1,12 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
+- title: About me
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "UAV"
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Precision Agriculture"
   url: "/headers/"
   side: left
   dropdown:
