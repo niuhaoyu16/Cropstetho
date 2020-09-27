@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Haoyu Niu"
 subheadline: "Welcome to my personal page!"
-teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+teaser: ""
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/getting-started/"
